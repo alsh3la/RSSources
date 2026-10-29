@@ -12,7 +12,7 @@
           "version": "5.0",
           "buildVersion": "1",
           "date": "2026-10-29T05:32:16Z",
-          "downloadURL": "https://github.com/alsh3la/Grim/releases/download/V4.9/Grim-debug.ipa",
+          "downloadURL": "https://github.com/alsh3la/Grim/releases/download/v5.0/Grim-5.0.ipa",
           "size": 41000000
         }
       ],
@@ -23,7 +23,7 @@
     },
     {
       "name": "RS Infinity",
-      "bundleIdentifier": "com.rs.BH",
+      "bundleIdentifier": "com.RS.BH",
       "developerName": "RS",
       "localizedDescription": "First IOS App By RS",
       "iconURL": "https://github.com/alsh3la/rs_tweaks_ios/blob/main/RSInfinity-iTunesArtwork@3x.png?raw=true",
