@@ -1,0 +1,32 @@
+{
+  "name": "My Source",
+  "apps": [
+    {
+      "name": "RS Infinity",
+      "bundleIdentifier": "com.rs.BH",
+      "developerName": "RS",
+      "localizedDescription": "First IOS App By RS",
+      "iconURL": "https://github.com/alsh3la/rs_tweaks_ios/blob/main/RSInfinity-iTunesArtwork@3x.png?raw=true",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-29T05:22:48Z",
+          "downloadURL": "",
+          "size": 0
+        },
+        {
+          "version": "5.8",
+          "buildVersion": "1",
+          "date": "2026-10-29T05:14:15Z",
+          "downloadURL": "https://github.com/alsh3la/oled-editor/releases/download/v5.7/RS.Infinity-5.7.ipa",
+          "size": 0
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
