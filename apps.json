@@ -3,7 +3,7 @@
   "apps": [
     {
       "name": "Grim",
-      "bundleIdentifier": "com.RS.Grrim",
+      "bundleIdentifier": "com.RS.Grim",
       "developerName": "RS",
       "localizedDescription": "Main APP",
       "iconURL": "https://github.com/alsh3la/Grim/blob/main/Grim-appstore-1024@1x.png?raw=true",
@@ -13,7 +13,7 @@
           "buildVersion": "1",
           "date": "2026-10-29T05:32:16Z",
           "downloadURL": "https://github.com/alsh3la/Grim/releases/download/V4.9/Grim-debug.ipa",
-          "size": 0
+          "size": 41000000
         }
       ],
       "appPermissions": {
@@ -33,7 +33,7 @@
           "buildVersion": "1",
           "date": "2026-10-29T05:14:15Z",
           "downloadURL": "https://github.com/alsh3la/oled-editor/releases/download/v5.7/RS.Infinity-5.7.ipa",
-          "size": 0
+          "size": 48000000
         }
       ],
       "appPermissions": {
