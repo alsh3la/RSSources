@@ -1,6 +1,26 @@
 {
-  "name": "My Source",
+  "name": "RS",
   "apps": [
+    {
+      "name": "Grim",
+      "bundleIdentifier": "com.RS.Grrim",
+      "developerName": "RS",
+      "localizedDescription": "Main APP",
+      "iconURL": "https://github.com/alsh3la/WZ/blob/main/Media.xcassets/AppIcon.appiconset/appstore-1024@1x.png?raw=true",
+      "versions": [
+        {
+          "version": "5.0",
+          "buildVersion": "1",
+          "date": "2026-10-29T05:32:16Z",
+          "downloadURL": "https://github.com/alsh3la/Grim/releases/download/V4.9/Grim-debug.ipa",
+          "size": 0
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
     {
       "name": "RS Infinity",
       "bundleIdentifier": "com.rs.BH",
@@ -8,13 +28,6 @@
       "localizedDescription": "First IOS App By RS",
       "iconURL": "https://github.com/alsh3la/rs_tweaks_ios/blob/main/RSInfinity-iTunesArtwork@3x.png?raw=true",
       "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-10-29T05:22:48Z",
-          "downloadURL": "",
-          "size": 0
-        },
         {
           "version": "5.8",
           "buildVersion": "1",
